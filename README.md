@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/under-the-stars/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Under The Stars](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/under-the-stars/) |
+| **Get License** | [Official Music Licensing for Under The Stars](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/under-the-stars/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `5cd4470626aff9f88f1831002d1aeca4d53827cccb0a27794b113fde89d9f52b` |
 | **Timestamp** | May 29, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
